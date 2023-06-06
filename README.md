@@ -1,16 +1,4 @@
-# read_csv
+Currently read 3 column can be modified
 
-A new Flutter project.
+https://github.com/Risav25Pokhrel/Reading_csv/assets/103576193/9f5eab9b-ca20-4e85-9a01-433f0d1a09c9
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
